@@ -1,0 +1,7 @@
+{
+    "name": "ChargedBalls",
+    "description": "Replaces normal VRPs with charged VRPs.",
+    "plugin": "mod.js",
+    "version": "1.0.0",
+    "ccmodDependencies": {}
+}
