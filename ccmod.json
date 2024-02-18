@@ -1,6 +1,6 @@
 {
   "id": "charged-balls",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "title": "Charged balls",
   "description": "Replaces normal VRPs with charged VRPs",
   "repository": "https://github.com/CCDirectLink/CC-ChargedBalls",

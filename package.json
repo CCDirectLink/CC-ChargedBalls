@@ -1,6 +1,6 @@
 {
     "name": "charged-balls",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "ccmodHumanName": "Charged balls",
     "description": "Replaces normal VRPs with charged VRPs",
     "module": true,
